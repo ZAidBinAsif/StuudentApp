@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+
+        android:title="@string/app_name" />
+
+    <item
+        android:id="@+id/nav_map"
+        android:title="@string/app_name" />
+    <item
+        android:id="@+id/nav_friends"
+        android:title="@string/app_name" />
+
+    <item
+        android:id="@+id/nav_trending"
+        android:title="@string/app_name" />
+    <item
+        android:id="@+id/nav_me"
+        android:title="@string/app_name" />
+</menu>
