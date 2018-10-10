@@ -33,6 +33,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
         <activity android:name=".HomeActivity"></activity>
         <activity android:name=".ui.login.LoginActivity"></activity>
         <activity android:name=".ui.register.RegisterUserActivity"></activity>
